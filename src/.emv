@@ -1,0 +1,5 @@
+SERVER_PORT=4000
+DB_HOST=자유.홈페이지.한국
+DB_USER=san9537
+DB_DATABASE=erstehomepage
+DB_PASSWORD=Dongbuk30328
